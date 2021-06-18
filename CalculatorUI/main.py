@@ -69,7 +69,7 @@ but7.place(x=140, y=100)
 but8 = Button(me, padx=14, pady=14, bd=4, bg='white', command = lambda:clickbut(8), text = "8", font = ("Courier New",16,'bold'))
 but8.place(x=140, y=170)
 
-but9 = Button(me, padx=14, pady=14, bd=4, bg='white', command = lambda:clickbut(9), text = "9", font = ("Courier New",16,'bold'))
+but9 = Button(me, padx=14, pady=14, bd=4, bg='white', command = lambda:clickbut(9), text = "9", font = ("Courier New", 16,'bold'))
 but9.place(x=140, y=240)
 
 but0 = Button(me, padx=14, pady=14, bd=4, bg='white', command = lambda:clickbut(10), text = "0", font = ("Courier New",16,'bold'))
