@@ -1,2 +1,2 @@
 # PyCalculator
-A GUI app made by using Tkinter module in Python.
+A GUI app made by using Tkinter library in Python.
